@@ -216,4 +216,6 @@ sections:
           - pr-7
     type: DividerSection
 type: PageLayout
+seo:
+  type: Seo
 ---
