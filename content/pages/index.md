@@ -121,7 +121,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: b
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-08-14 at 01.00.38 (1).jpeg
