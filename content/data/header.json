@@ -2,7 +2,7 @@
     "primaryLinks": [],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-left",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "Carpet Home",
     "styles": {
