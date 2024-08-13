@@ -97,7 +97,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
