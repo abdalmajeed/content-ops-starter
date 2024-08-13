@@ -27,13 +27,6 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: ''
-        image:
-          type: ImageBlock
-          altText: Chunky Cotton Knit Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
     actions: []
