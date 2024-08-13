@@ -16,7 +16,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/MALIA.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
