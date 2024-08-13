@@ -16,7 +16,6 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/TULIA.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
