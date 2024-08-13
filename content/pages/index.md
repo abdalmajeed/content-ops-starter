@@ -50,54 +50,6 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: ''
-        subtitle: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.37 (1).jpeg
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        image:
-          type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-      - type: FeaturedItem
-        title: ''
         tagline: ''
         subtitle: ''
         text: ''
@@ -191,6 +143,54 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.37 (1).jpeg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     actions: []
     elementId: ''
     variant: three-col-grid
