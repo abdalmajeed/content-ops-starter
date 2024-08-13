@@ -124,7 +124,7 @@ sections:
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.38 (1).jpeg
           altText: Faux Fur Throw
           elementId: ''
           styles:
