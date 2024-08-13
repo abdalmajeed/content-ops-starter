@@ -23,7 +23,7 @@ sections:
               borderRadius: medium
           url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
       - type: FeaturedItem
         title: ''
         subtitle: ''
@@ -83,7 +83,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -205,16 +205,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
 type: PageLayout
 seo:
   type: Seo
