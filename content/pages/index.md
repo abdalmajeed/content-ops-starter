@@ -2,8 +2,7 @@
 title: Home
 slug: /
 sections:
-  - posts:
-      - content/pages/blog/case-study-3.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
