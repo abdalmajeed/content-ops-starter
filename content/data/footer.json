@@ -4,37 +4,6 @@
         "type": "ImageBlock"
     },
     "text": "العنوان:\n\nORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP / TÜRKIYE\n",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Features",
-                "altText": "Features page",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [],
     "legalLinks": [
         {
