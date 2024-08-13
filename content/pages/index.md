@@ -112,6 +112,14 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+        image:
+          type: ImageBlock
+          url: /images/hero2.svg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
     actions: []
     elementId: ''
     variant: three-col-grid
