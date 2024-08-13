@@ -76,8 +76,7 @@ sections:
         title: ''
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-08-14 at 01.00.37 (3).jpeg
