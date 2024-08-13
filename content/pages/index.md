@@ -120,7 +120,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: b
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
