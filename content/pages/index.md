@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: عينات
+      text: Resimler
       color: text-dark
       styles:
         self:
