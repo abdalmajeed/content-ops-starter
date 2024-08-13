@@ -28,7 +28,6 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
-          url: /images/ZIYA.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
