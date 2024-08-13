@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: عينات
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: left
