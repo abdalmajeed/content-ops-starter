@@ -74,7 +74,7 @@ sections:
               borderRadius: medium
       - type: FeaturedItem
         title: ''
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
