@@ -143,6 +143,54 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.38 (2).jpeg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.38.jpeg
+          altText: Faux Fur Throw
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
+            textAlign: left
+            borderRadius: none
+            flexDirection: col
+            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
