@@ -113,7 +113,7 @@ sections:
             flexDirection: col
         image:
           type: ImageBlock
-          url: /images/hero2.svg
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg
           altText: Image alt text placeholder
           elementId: ''
           styles:
