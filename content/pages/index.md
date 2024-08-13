@@ -87,7 +87,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Carpet home
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Carpet home
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
