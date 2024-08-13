@@ -4,7 +4,15 @@
         "type": "ImageBlock"
     },
     "text": "العنوان:\n\nORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP / TÜRKIYE\n",
-    "socialLinks": [],
+    "socialLinks": [
+        {
+            "type": "Social",
+            "altText": "Email icon",
+            "url": "carpethome10@gmail.com",
+            "icon": "mail",
+            "elementId": ""
+        }
+    ],
     "legalLinks": [],
     "copyrightText": "جميع الحقوق محفوظة لشركة بيت السجاد © 2024\n",
     "colors": "bg-dark-fg-light",
