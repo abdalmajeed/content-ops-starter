@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: عينات
+      text: ''
       color: text-dark
       styles:
         self:
