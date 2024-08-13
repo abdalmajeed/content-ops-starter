@@ -21,6 +21,7 @@ sections:
           styles:
             self:
               borderRadius: medium
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
