@@ -26,7 +26,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         actions: []
         colors: bg-light-fg-dark
         styles:
