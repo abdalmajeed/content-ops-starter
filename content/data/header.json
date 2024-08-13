@@ -4,5 +4,12 @@
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header",
-    "title": "بيت السجاد"
+    "title": "بيت السجاد",
+    "styles": {
+        "self": {
+            "padding": [
+                "pb-6"
+            ]
+        }
+    }
 }
