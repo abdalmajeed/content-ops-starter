@@ -1,7 +1,7 @@
 {
     "primaryLinks": [],
     "secondaryLinks": [],
-    "variant": "logo-centered-primary-nav-left",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "title": "Carpet Home",
@@ -11,6 +11,17 @@
                 "pb-7",
                 "pt-7"
             ]
+        }
+    },
+    "logo": {
+        "type": "ImageBlock",
+        "url": "/images/hjhm,..png",
+        "altText": "Image alt text placeholder",
+        "elementId": "",
+        "styles": {
+            "self": {
+                "borderRadius": "medium"
+            }
         }
     }
 }

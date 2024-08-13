@@ -215,10 +215,8 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-seo:
-  metaTitle: Carpet home
-  metaDescription: Carpet home
-  socialImage: /images/main-hero.jpg
-  type: Seo
 type: PageLayout
+seo:
+  type: Seo
+  socialImage: /images/WhatsApp Image 2024-08-14 at 01.26.39.jpeg
 ---
