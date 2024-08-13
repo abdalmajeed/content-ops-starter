@@ -50,7 +50,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: ''
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/ZIYA.jpg
