@@ -145,7 +145,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/WhatsApp Image 2024-08-14 at 01.00.38 (2).jpeg
