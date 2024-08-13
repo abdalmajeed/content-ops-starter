@@ -5,16 +5,7 @@
     },
     "text": "العنوان:\n\nORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP / TÜRKIYE\n",
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "جميع الحقوق محفوظة لشركة بيت السجاد © 2024\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
