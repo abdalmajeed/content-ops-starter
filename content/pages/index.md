@@ -441,7 +441,7 @@ sections:
         self:
           textAlign: left
           fontWeight: 400
-    subtitle: 'Adres:'
+    subtitle: ''
     text: >
       2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
       yenilikçilik mirasını bünyesinde barındırmaktadır. Kaliteye olan sarsılmaz
