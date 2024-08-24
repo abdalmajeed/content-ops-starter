@@ -20,7 +20,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
     textAlign: left
     padding:
       - pt-1
