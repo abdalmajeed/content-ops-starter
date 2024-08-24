@@ -416,7 +416,7 @@ sections:
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
     showThumbnail: false
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     actions: []
