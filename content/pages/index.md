@@ -436,8 +436,8 @@ sections:
     title:
       type: TitleBlock
       text: >-
-        Adres:ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP
-        / TÜRKIYE
+        ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP /
+        TÜRKIYE
       color: text-dark
       styles:
         self:
