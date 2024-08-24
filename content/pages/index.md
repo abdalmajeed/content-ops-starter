@@ -139,29 +139,6 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: hy
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/3d477057-1585-460e-a50b-c32255d2355c.jpg
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: ''
         subtitle: ''
         image:
