@@ -32,6 +32,7 @@ styles:
       - ml-1
       - mb-1
       - mr-1
+    borderRadius: x-small
 type: PostLayout
 author: content/data/person1.json
 ---
