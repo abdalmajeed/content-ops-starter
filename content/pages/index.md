@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Carpet Home
 slug: /
 sections:
   - type: GenericSection
@@ -14,18 +14,14 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
+        label: Adres
+        url: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
+        icon: arrowDown
         iconPosition: right
         style: primary
+        altText: Adres
+        showIcon: false
+        elementId: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
     colors: bg-light-fg-dark
     styles:
       self:
@@ -297,7 +293,7 @@ sections:
         altText: Rangle logo
         elementId: ''
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
@@ -315,7 +311,7 @@ sections:
       subtitle:
         textAlign: center
 type: PageLayout
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   socialImage: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
