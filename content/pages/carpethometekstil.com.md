@@ -70,30 +70,6 @@ sections:
         actions: []
         colors: bg-neutral-fg-dark
       - type: FeaturedItem
-        title: ''
-        subtitle: ''
-        image:
-          type: ImageBlock
-          url: /images/05f95b09-fe14-4e96-b4f1-8b771536cf12.jpg
-          altText: Faux Fur Throw
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-0
-              - pl-0
-              - pb-0
-              - pr-0
-            textAlign: left
-            borderRadius: none
-            flexDirection: col
-            justifyContent: center
-      - type: FeaturedItem
         title: Account Executive
         subtitle: Sales
         text: >-
