@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: CARPET HOME
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Carpet home for textil
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
