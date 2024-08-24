@@ -2,44 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: CARPET HOME
-      color: text-dark
-    subtitle: Carpet home Tekstil
-    text: >
-      **HALI (DUVAR HALISI DAHİL) VE KİLİM İMALATI (PASPAS, YOLLUK VE BENZERİ
-      TEKSTİL YER
-
-      KAPLAMALARI DAHİL)**
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
