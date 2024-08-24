@@ -1,16 +1,16 @@
 {
     "light": "#ffffff",
-    "dark": "#610000",
+    "dark": "#270e0e",
     "neutral": "#f9fffa",
     "neutralAlt": "#173982",
     "primary": "#ffdada",
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
-        "size": "6xl",
-        "weight": "normal",
-        "decoration": "none",
-        "case": "none",
+        "size": "8xl",
+        "weight": "medium",
+        "decoration": "line-through",
+        "case": "capitalize",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
     },
@@ -81,9 +81,9 @@
         "type": "ThemeStyleLink"
     },
     "linkSecondary": {
-        "weight": "normal",
-        "case": "none",
-        "letterSpacing": "normal",
+        "weight": "bold",
+        "case": "capitalize",
+        "letterSpacing": "wider",
         "type": "ThemeStyleLink"
     },
     "type": "ThemeStyle"
