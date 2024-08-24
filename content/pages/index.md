@@ -8,8 +8,11 @@ sections:
       text: CARPET HOME
       color: text-dark
     subtitle: Carpet home Tekstil
-    text: |
-      CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ
+    text: >
+      **HALI (DUVAR HALISI DAHİL) VE KİLİM İMALATI (PASPAS, YOLLUK VE BENZERİ
+      TEKSTİL YER
+
+      KAPLAMALARI DAHİL)**
     actions:
       - type: Button
         label: Get started
