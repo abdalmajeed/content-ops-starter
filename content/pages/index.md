@@ -309,7 +309,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/f2ea6aba-7c42-42cb-9f9b-ca75395b0a47.jpg
+          url: /images/MALIA.jpg
           altText: Placeholder text
           styles:
             self:
