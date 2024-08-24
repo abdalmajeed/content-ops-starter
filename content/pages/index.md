@@ -8,10 +8,7 @@ sections:
       text: ''
       color: text-dark
     subtitle: ''
-    text: >+
-      ##### HALI (DUVAR HALISI DAHİL) VE KİLİM İMALATI (PASPAS, YOLLUK VE
-      BENZERİ TEKSTİL YER KAPLAMALARI DAHİL)
-
+    text: ''
     actions:
       - type: Button
         label: Konum
