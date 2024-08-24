@@ -212,7 +212,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: CARPET HOME T
+      text: CARPET HOME
       color: text-dark
     subtitle: Be in good company
     text: >
