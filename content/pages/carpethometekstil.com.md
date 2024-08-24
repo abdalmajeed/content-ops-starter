@@ -20,6 +20,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Adres
       - type: Link
         label: See Tutorials
         url: /
