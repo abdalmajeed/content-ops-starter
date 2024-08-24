@@ -81,7 +81,7 @@
         "type": "ThemeStyleLink"
     },
     "linkSecondary": {
-        "weight": "medium",
+        "weight": "bold",
         "case": "capitalize",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
