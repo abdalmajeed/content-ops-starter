@@ -436,7 +436,7 @@ sections:
     title:
       type: TitleBlock
       text: 'Adres:'
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: left
