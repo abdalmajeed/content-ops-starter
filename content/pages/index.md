@@ -207,7 +207,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: This is a badge
+      label: ''
       color: text-primary
 type: PageLayout
 seo:
