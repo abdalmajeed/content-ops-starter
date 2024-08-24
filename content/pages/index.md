@@ -1,6 +1,6 @@
 ---
 title: Carpet Home
-slug: carpethometekstil.com
+slug: /
 sections:
   - type: GenericSection
     title:
