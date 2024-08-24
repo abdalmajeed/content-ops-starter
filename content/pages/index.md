@@ -35,7 +35,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Resimler
+      text: 'Katalog Resimler, Görseller ve Stok Fotoğraflar'
       color: text-dark
       styles:
         self:
