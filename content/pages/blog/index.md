@@ -40,6 +40,10 @@ topSections:
       subtitle:
         textAlign: center
         fontWeight: 700
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 styles:
   title:
     textAlign: center
