@@ -450,7 +450,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://youtube.com/shorts/3M7dasyfl1o'
+      url: /shorts/3M7dasyfl1o
       autoplay: true
       loop: true
       muted: true
