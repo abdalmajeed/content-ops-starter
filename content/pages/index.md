@@ -435,7 +435,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: >-
+        İletişim:+90 555 020 09 11+90 534 821 88
+        56carpethome10@gmail.commailto:carpethome10@gmail.com>carpethometextil@gmail.com
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
