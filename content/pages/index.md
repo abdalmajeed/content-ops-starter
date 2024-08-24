@@ -443,15 +443,16 @@ sections:
           fontWeight: 400
     subtitle: ''
     text: >
-      **Adres:**
+      **Adres:
+
+      **
 
       ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP /
       TÜRKIYE
 
 
-      **
 
-      İletişim:**
+      **İletişim**:
 
 
       +90 555 020 09 11
