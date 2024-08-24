@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Carpet Home
 slug: carpethometekstil.com
 sections:
   - type: GenericSection
