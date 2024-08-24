@@ -113,32 +113,6 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: Business Consulting
-        tagline: Feature 2
-        subtitle: Be in good company
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/3d477057-1585-460e-a50b-c32255d2355c.jpg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: ''
         subtitle: ''
         image:
