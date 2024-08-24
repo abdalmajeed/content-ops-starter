@@ -437,43 +437,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
-          yenilikçilik mirasını bünyesinde barındırmaktadır. Kaliteye olan
-          sarsılmaz bağlılığımız ve halı yapım sanatına olan köklü takdirimizle,
-          neredeyse yirmi yıldır konfor ve zarafet hikayeleri dokuyoruz.
-          Geleneğin modernlikle buluştuğu bir dünyaya hoş geldiniz ve her adım,
-          eskimeyen zemin kaplama çözümlerine olan bağlılığımızın bir
-          kanıtıdır.Adres:ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR
-          – GAZIANTEP / TÜRKIYEİletişim:+90 555 020 09 11+90 534 821 88
-          56carpethome10@gmail.commailto:carpethome10@gmail.com>ca
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
-        title: >-
           “Quote from some important person goes right here. I love using
           Netlify.”
         tagline: Testimonial 2
