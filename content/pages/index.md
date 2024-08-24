@@ -461,7 +461,7 @@ sections:
         self:
           textAlign: center
     recentCount: 0
-    showThumbnail: false
+    showThumbnail: true
     showExcerpt: false
     showDate: false
     showAuthor: false
