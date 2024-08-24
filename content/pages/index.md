@@ -8,9 +8,8 @@ sections:
       text: CARPET HOME
       color: text-dark
     subtitle: Carpet home Tekstil
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ
     actions:
       - type: Button
         label: Get started
