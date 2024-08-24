@@ -437,8 +437,15 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
+          yenilikçilik mirasını bünyesinde barındırmaktadır. Kaliteye olan
+          sarsılmaz bağlılığımız ve halı yapım sanatına olan köklü takdirimizle,
+          neredeyse yirmi yıldır konfor ve zarafet hikayeleri dokuyoruz.
+          Geleneğin modernlikle buluştuğu bir dünyaya hoş geldiniz ve her adım,
+          eskimeyen zemin kaplama çözümlerine olan bağlılığımızın bir
+          kanıtıdır.Adres:ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR
+          – GAZIANTEP / TÜRKIYEİletişim:+90 555 020 09 11+90 534 821 88
+          56carpethome10@gmail.commailto:carpethome10@gmail.com>carpethometextil@gmail.com
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
