@@ -12,7 +12,7 @@ seo:
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
