@@ -248,7 +248,7 @@ sections:
             flexDirection: col
         image:
           type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
           altText: Image alt text placeholder
           elementId: ''
           styles:
