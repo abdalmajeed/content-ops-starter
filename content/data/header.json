@@ -16,11 +16,23 @@
     "logo": {
         "type": "ImageBlock",
         "url": "/images/image (4).png",
-        "altText": "Image alt text placeholder",
-        "elementId": "",
+        "altText": "Carpet Home",
+        "elementId": "Carpet Home",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "padding": [
+                    "pl-0",
+                    "pt-0",
+                    "pb-0",
+                    "pr-0"
+                ],
+                "margin": [
+                    "mt-0",
+                    "mr-0",
+                    "ml-0",
+                    "mb-0"
+                ]
             }
         }
     }
