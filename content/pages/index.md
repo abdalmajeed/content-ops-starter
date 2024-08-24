@@ -441,7 +441,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: center
     subtitle: Section with a form subtitle
     text: >+
       2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
