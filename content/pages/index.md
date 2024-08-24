@@ -142,8 +142,7 @@ sections:
         title: hy
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/3d477057-1585-460e-a50b-c32255d2355c.jpg
