@@ -494,7 +494,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
-    hoverEffect: thin-underline
+    hoverEffect: shadow
     styles:
       self:
         justifyContent: center
