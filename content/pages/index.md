@@ -215,12 +215,10 @@ sections:
       text: CARPET HOME
       color: text-dark
     subtitle: CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ
-    text: >
+    text: >+
       ##### HALI (DUVAR HALISI DAHİL) VE KİLİM İMALATI (PASPAS, YOLLUK VE
-      BENZERİ TEKSTİL YER
+      BENZERİ TEKSTİL YER KAPLAMALARI DAHİL)
 
-
-      KAPLAMALARI DAHİL)
     actions:
       - type: Button
         label: Get started
