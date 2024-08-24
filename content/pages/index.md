@@ -89,7 +89,7 @@ sections:
         actions: []
         colors: bg-neutral-fg-dark
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
