@@ -6,7 +6,6 @@ excerpt: >-
   Adres:ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP /
   TÜRKIYE
 featuredImage:
-  url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
