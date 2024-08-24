@@ -35,6 +35,11 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
       subtitle:
         textAlign: left
         fontWeight: 700
