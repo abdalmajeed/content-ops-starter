@@ -62,7 +62,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
+          url: /images/3d477057-1585-460e-a50b-c32255d2355c.jpg
         actions: []
         colors: bg-neutral-fg-dark
       - type: FeaturedItem
