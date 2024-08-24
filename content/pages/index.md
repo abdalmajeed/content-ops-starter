@@ -215,9 +215,12 @@ sections:
       text: CARPET HOME
       color: text-dark
     subtitle: CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      ##### **HALI (DUVAR HALISI DAHİL) VE KİLİM İMALATI (PASPAS, YOLLUK VE
+      BENZERİ TEKSTİL YER
+
+      KAPLAMALARI DAHİL)sses.**
+
     actions:
       - type: Button
         label: Get started
