@@ -417,7 +417,7 @@ sections:
       - content/pages/blog/what-is-a-design-system.md
     showThumbnail: false
     showExcerpt: false
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
