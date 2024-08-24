@@ -461,10 +461,10 @@ sections:
         self:
           textAlign: center
     recentCount: 0
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
+    showThumbnail: false
+    showExcerpt: false
+    showDate: false
+    showAuthor: false
     actions: []
     elementId: ''
     variant: three-col-grid
