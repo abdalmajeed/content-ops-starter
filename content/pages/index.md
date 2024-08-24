@@ -39,6 +39,14 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
