@@ -30,7 +30,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
       subtitle:
-        textAlign: center
+        textAlign: left
         fontWeight: 700
   - type: FeaturedItemsSection
     title:
