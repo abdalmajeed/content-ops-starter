@@ -71,7 +71,7 @@ sections:
         colors: bg-neutral-fg-dark
       - type: FeaturedItem
         title: ''
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/05f95b09-fe14-4e96-b4f1-8b771536cf12.jpg
