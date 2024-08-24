@@ -205,6 +205,10 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
 type: PageLayout
 seo:
   type: Seo
