@@ -345,7 +345,7 @@ sections:
   - type: DividerSection
     title: Divider
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
@@ -460,7 +460,7 @@ sections:
       styles:
         self:
           textAlign: center
-    recentCount: 3
+    recentCount: 0
     showThumbnail: true
     showExcerpt: true
     showDate: true
@@ -469,12 +469,12 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
-    hoverEffect: shadow-plus-move-up
+    hoverEffect: thin-underline
     styles:
       self:
         justifyContent: center
 type: PageLayout
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   socialImage: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg

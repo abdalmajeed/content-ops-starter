@@ -1,10 +1,10 @@
 {
-    "light": "#ffffff",
-    "dark": "#270e0e",
-    "neutral": "#eeeeee",
-    "neutralAlt": "#173982",
-    "primary": "#ffdada",
-    "fontBody": "",
+    "light": "#000000",
+    "dark": "#ffffff",
+    "neutral": "#f6e7e7",
+    "neutralAlt": "#a0abc4",
+    "primary": "#ee7070",
+    "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
         "size": "8xl",
