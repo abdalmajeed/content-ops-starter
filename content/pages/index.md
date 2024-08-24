@@ -435,7 +435,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: >-
+        Adres:ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP
+        / TÜRKIYE
       color: text-dark
       styles:
         self:
