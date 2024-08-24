@@ -309,7 +309,7 @@ sections:
           Follow the tutorial to build your first Netlify Create site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.38.jpeg
           altText: Placeholder text
           styles:
             self:
