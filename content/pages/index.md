@@ -59,7 +59,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
+          url: /images/4a4a6eca-4a08-468e-845a-b483161cf157.jpg
           altText: Placeholder text
           styles:
             self:
