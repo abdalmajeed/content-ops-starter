@@ -236,35 +236,6 @@ sections:
           styles:
             self:
               borderRadius: medium
-      - type: FeaturedItem
-        title: Business Consulting
-        tagline: Feature 2
-        subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
-          altText: Business consulting
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-dark-fg-light
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     actions: []
     elementId: ''
     variant: three-col-grid
