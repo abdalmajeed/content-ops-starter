@@ -19,4 +19,5 @@ seo:
     - type: MetaTag
 type: PostFeedLayout
 bottomSections: []
+isDraft: true
 ---
