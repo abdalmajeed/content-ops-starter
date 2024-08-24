@@ -21,7 +21,7 @@ sections:
         iconPosition: right
         style: primary
         altText: Adres
-        showIcon: true
+        showIcon: false
     colors: bg-light-fg-dark
     styles:
       self:
