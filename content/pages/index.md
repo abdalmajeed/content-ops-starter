@@ -441,7 +441,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: left
+          textAlign: justify
           fontWeight: 400
     subtitle: Section with a video subtitle
     text: >
