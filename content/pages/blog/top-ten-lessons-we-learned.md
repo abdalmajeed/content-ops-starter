@@ -21,6 +21,20 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: row
+    textAlign: left
+    padding:
+      - pt-1
+      - pl-1
+      - pb-1
+      - pr-1
+    margin:
+      - mt-1
+      - ml-1
+      - mb-1
+      - mr-1
+    borderRadius: x-small
+    borderColor: border-light
+    borderStyle: dotted
 type: PostLayout
 author: content/data/person1.json
 ---

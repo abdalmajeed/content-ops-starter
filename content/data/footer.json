@@ -1,25 +1,4 @@
 {
-    "logo": {
-        "altText": "Logo light",
-        "type": "ImageBlock",
-        "url": "/images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg",
-        "styles": {
-            "self": {
-                "padding": [
-                    "pt-0",
-                    "pl-0",
-                    "pb-0",
-                    "pr-0"
-                ],
-                "margin": [
-                    "mt-0",
-                    "ml-0",
-                    "mb-0",
-                    "mr-0"
-                ]
-            }
-        }
-    },
     "text": "",
     "socialLinks": [],
     "legalLinks": [
