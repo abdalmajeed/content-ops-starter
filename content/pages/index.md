@@ -54,6 +54,29 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/4a4a6eca-4a08-468e-845a-b483161cf157.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: ''
         subtitle: ''
         image:
           type: ImageBlock
@@ -62,9 +85,32 @@ sections:
           styles:
             self:
               borderRadius: medium
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
+          url: /images/3d477057-1585-460e-a50b-c32255d2355c.jpg
         actions: []
         colors: bg-neutral-fg-dark
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/05f95b09-fe14-4e96-b4f1-8b771536cf12.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
       - type: FeaturedItem
         title: ''
         subtitle: ''
@@ -202,7 +248,7 @@ sections:
             flexDirection: col
         image:
           type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
           altText: Image alt text placeholder
           elementId: ''
           styles:
@@ -232,6 +278,52 @@ sections:
           styles:
             self:
               borderRadius: medium
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/f2ea6aba-7c42-42cb-9f9b-ca75395b0a47.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/MALIA.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
     actions: []
     elementId: ''
     variant: three-col-grid
@@ -294,7 +386,7 @@ sections:
         elementId: ''
     elementId: ''
     motion: move-to-left
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         margin:
@@ -310,6 +402,77 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+          fontWeight: 400
+    subtitle: ''
+    text: |
+
+
+      **İletişim**:
+
+      +90 555 020 09 11
+
+      +90 534 821 88 56
+
+      <carpethome10@gmail.com>
+
+      <carpethometextil@gmail.com>
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://youtube.com/shorts/3M7dasyfl1o'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: true
+      aspectRatio: '4:3'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: ''
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    hoverEffect: shadow-plus-move-up
+    styles:
+      self:
+        justifyContent: center
 type: PageLayout
 isDraft: false
 seo:
