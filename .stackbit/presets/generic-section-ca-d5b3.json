@@ -1,0 +1,76 @@
+{
+    "model": "GenericSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "ca",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "s"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": {
+                    "$$type": "TitleBlock",
+                    "text": "CARPET HOME",
+                    "color": "text-dark",
+                    "styles": null
+                },
+                "subtitle": "CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+                "text": "##### HALI (DUVAR HALISI DAHİL) VE KİLİM İMALATI (PASPAS, YOLLUK VE BENZERİ TEKSTİL YER KAPLAMALARI DAHİL)\n\n",
+                "actions": [
+                    {
+                        "$$type": "Button",
+                        "label": "Get started",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": null,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "secondary",
+                        "elementId": null
+                    },
+                    {
+                        "$$type": "Link",
+                        "label": "See Tutorials",
+                        "altText": null,
+                        "url": "/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "style": "primary",
+                        "elementId": null
+                    }
+                ],
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Dope design preview",
+                    "elementId": null,
+                    "styles": null
+                },
+                "badge": null,
+                "elementId": null,
+                "colors": "bg-light-fg-dark",
+                "backgroundImage": null,
+                "styles": {
+                    "self": {
+                        "alignItems": "center",
+                        "flexDirection": "row-reverse"
+                    },
+                    "subtitle": {
+                        "textAlign": "center",
+                        "fontWeight": 700
+                    }
+                }
+            },
+            "thumbnail": "images/generic-section-ca-d5b3.png"
+        }
+    ]
+}
