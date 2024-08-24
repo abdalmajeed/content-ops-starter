@@ -70,7 +70,7 @@ sections:
         actions: []
         colors: bg-neutral-fg-dark
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: ''
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
