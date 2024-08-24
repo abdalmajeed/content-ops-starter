@@ -19,7 +19,7 @@ sections:
           https://maps.app.goo.gl/R5BiSN9kVQuP7XPD6?g_st=com.google.maps.preview.copy
         icon: chevronDown
         iconPosition: left
-        style: primary
+        style: secondary
         altText: Adres
         showIcon: true
     colors: bg-light-fg-dark
