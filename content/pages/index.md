@@ -15,7 +15,8 @@ sections:
     actions:
       - type: Button
         label: Konum
-        url: /
+        url: >-
+          https://maps.app.goo.gl/R5BiSN9kVQuP7XPD6?g_st=com.google.maps.preview.copy
         icon: arrowRight
         iconPosition: right
         style: secondary
