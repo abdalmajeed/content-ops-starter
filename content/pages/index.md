@@ -462,7 +462,7 @@ sections:
           textAlign: center
     recentCount: 0
     showThumbnail: false
-    showExcerpt: true
+    showExcerpt: false
     showDate: true
     showAuthor: true
     actions: []
