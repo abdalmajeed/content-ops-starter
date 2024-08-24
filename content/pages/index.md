@@ -22,7 +22,6 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
