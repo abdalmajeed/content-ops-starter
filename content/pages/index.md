@@ -306,8 +306,5 @@ sections:
       subtitle:
         textAlign: center
 type: PageLayout
-seo:
-  type: Seo
-  socialImage: /images/WhatsApp Image 2024-08-14 at 01.26.39.jpeg
 isDraft: true
 ---
