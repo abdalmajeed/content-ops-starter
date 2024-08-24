@@ -442,17 +442,25 @@ sections:
           textAlign: left
           fontWeight: 400
     subtitle: ''
-    text: |+
+    text: >
+      ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP /
+      TÜRKIYE
+
+
+
       İletişim:
+
 
       +90 555 020 09 11
 
+
       +90 534 821 88 56
 
-      carpethome10\@gmail.com
 
-      carpethometextil\@gmail.com
+      <carpethome10@gmail.com>
 
+
+      <carpethometextil@gmail.com>
     actions: []
     media:
       type: VideoBlock
