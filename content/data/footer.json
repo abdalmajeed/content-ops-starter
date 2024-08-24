@@ -2,13 +2,41 @@
     "logo": {
         "altText": "Logo light",
         "type": "ImageBlock",
-        "url": "/images/3d477057-1585-460e-a50b-c32255d2355c.jpg"
+        "url": "/images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg",
+        "styles": {
+            "self": {
+                "padding": [
+                    "pt-0",
+                    "pl-0",
+                    "pb-0",
+                    "pr-0"
+                ],
+                "margin": [
+                    "mt-0",
+                    "ml-0",
+                    "mb-0",
+                    "mr-0"
+                ]
+            }
+        }
     },
-    "text": "##### `2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve yenilikçilik mirasını bünyesinde barındırmaktadır. Kaliteye olan sarsılmaz bağlılığımız ve halı yapım sanatına olan köklü takdirimizle, neredeyse yirmi yıldır konfor ve zarafet hikayeleri dokuyoruz. Geleneğin modernlikle buluştuğu bir dünyaya hoş geldiniz ve her adım, eskimeyen zemin kaplama çözümlerine olan bağlılığımızın bir kanıtıdır.`\n\n`Adres:`\n\n`ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR – GAZIANTEP / TÜRKIYE`\n\n`İletişim:`\n\n`+90 555 020 09 11`\n\n`+90 534 821 88 56`\n\n`carpethome10@gmail.com`\n\n`mailto:carpethome10@gmail.com`\n\n`carpethometextil@gmail.com`\n",
+    "text": "",
     "socialLinks": [],
-    "legalLinks": [],
+    "legalLinks": [
+        {
+            "type": "Link",
+            "label": "Send",
+            "altText": "Send",
+            "url": "/",
+            "showIcon": true,
+            "icon": "send",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "copyrightText": "Copyright 2024 ©  Carpet Home | Tüm Hakları Saklıdır\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer",
     "title": ""
 }
