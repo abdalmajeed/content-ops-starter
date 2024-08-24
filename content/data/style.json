@@ -4,8 +4,8 @@
     "neutral": "#989898",
     "neutralAlt": "#bbc0cb",
     "primary": "#be9d9d",
-    "fontBody": "sans",
-    "fontHeadlines": "sans",
+    "fontBody": "serif",
+    "fontHeadlines": "serif",
     "h1": {
         "size": "8xl",
         "weight": "normal",
@@ -55,11 +55,11 @@
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {
-        "weight": "medium",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal",
-        "borderRadius": "DEFAULT",
-        "shadow": "none",
+        "borderRadius": "lg",
+        "shadow": "md",
         "horizontalPadding": 0,
         "verticalPadding": 0,
         "type": "ThemeStyleButton"
