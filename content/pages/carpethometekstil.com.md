@@ -22,13 +22,6 @@ sections:
         style: primary
         altText: Adres
         showIcon: true
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
     colors: bg-light-fg-dark
     styles:
       self:
