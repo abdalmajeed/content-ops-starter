@@ -20,7 +20,10 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "padding": [
+                    "pl-1"
+                ]
             }
         }
     }
