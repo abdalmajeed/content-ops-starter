@@ -463,7 +463,7 @@ sections:
     recentCount: 0
     showThumbnail: false
     showExcerpt: false
-    showDate: true
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
