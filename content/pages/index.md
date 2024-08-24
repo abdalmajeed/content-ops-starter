@@ -39,6 +39,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
