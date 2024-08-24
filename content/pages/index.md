@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: CARPET HOME
       color: text-dark
-    subtitle: Carpet home for textil
+    subtitle: Carpet home Tekstil
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
