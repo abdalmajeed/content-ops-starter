@@ -1,0 +1,540 @@
+{
+    "model": "PageLayout",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "xxcxc",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "xcxc"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Carpet Home",
+                "sections": [
+                    {
+                        "$$type": "GenericSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "CARPET HOME",
+                            "color": "text-dark",
+                            "styles": null
+                        },
+                        "subtitle": "CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+                        "text": "##### HALI (DUVAR HALISI DAHİL) VE KİLİM İMALATI (PASPAS, YOLLUK VE BENZERİ TEKSTİL YER KAPLAMALARI DAHİL)\n\n",
+                        "actions": [
+                            {
+                                "$$type": "Button",
+                                "label": "Adres",
+                                "altText": "Adres",
+                                "url": "https://maps.app.goo.gl/aRZrvvKj3HmrUMg97",
+                                "showIcon": false,
+                                "icon": "arrowDown",
+                                "iconPosition": "right",
+                                "style": "primary",
+                                "elementId": "https://maps.app.goo.gl/aRZrvvKj3HmrUMg97"
+                            }
+                        ],
+                        "media": {
+                            "$$type": "ImageBlock",
+                            "url": {
+                                "$$ref": "stackbit_asset_id:static:public/images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "altText": "Image alt text placeholder",
+                            "elementId": "",
+                            "styles": {
+                                "self": {
+                                    "borderRadius": "medium"
+                                }
+                            }
+                        },
+                        "badge": null,
+                        "elementId": null,
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "alignItems": "center",
+                                "flexDirection": "row-reverse",
+                                "padding": [
+                                    "pt-1",
+                                    "pl-1",
+                                    "pb-1",
+                                    "pr-1"
+                                ]
+                            },
+                            "subtitle": {
+                                "textAlign": "left",
+                                "fontWeight": 700
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "FeaturedItemsSection",
+                        "title": {
+                            "$$type": "TitleBlock",
+                            "text": "Katalog Resimler",
+                            "color": "text-dark",
+                            "styles": {
+                                "self": {
+                                    "textAlign": "left"
+                                }
+                            }
+                        },
+                        "subtitle": null,
+                        "items": [
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": null,
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Cotton Knit Throws",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "medium"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": null,
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.37 (2).jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Image alt text placeholder",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "medium"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-0",
+                                            "pl-0",
+                                            "pb-0",
+                                            "pr-0"
+                                        ],
+                                        "textAlign": "left",
+                                        "borderRadius": "none",
+                                        "flexDirection": "col",
+                                        "justifyContent": "center"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": "",
+                                "subtitle": "",
+                                "text": "",
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.37 (3).jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Placeholder text",
+                                    "elementId": null,
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "x-large"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-8",
+                                            "pl-8",
+                                            "pb-8",
+                                            "pr-8"
+                                        ],
+                                        "borderRadius": "x-large",
+                                        "flexDirection": "row"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": null,
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.38 (1).jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Faux Fur Throw",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "medium"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-0",
+                                            "pl-0",
+                                            "pb-0",
+                                            "pr-0"
+                                        ],
+                                        "textAlign": "left",
+                                        "borderRadius": "none",
+                                        "flexDirection": "col",
+                                        "justifyContent": "center"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": null,
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.38 (2).jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Faux Fur Throw",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "medium"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-0",
+                                            "pl-0",
+                                            "pb-0",
+                                            "pr-0"
+                                        ],
+                                        "textAlign": "left",
+                                        "borderRadius": "none",
+                                        "flexDirection": "col",
+                                        "justifyContent": "center"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": null,
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.38.jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Faux Fur Throw",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "medium"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-0",
+                                            "pl-0",
+                                            "pb-0",
+                                            "pr-0"
+                                        ],
+                                        "textAlign": "left",
+                                        "borderRadius": "none",
+                                        "flexDirection": "col",
+                                        "justifyContent": "center"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": "",
+                                "subtitle": "",
+                                "text": "",
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Image alt text placeholder",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "medium"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-8",
+                                            "pl-8",
+                                            "pb-8",
+                                            "pr-8"
+                                        ],
+                                        "borderRadius": "x-large",
+                                        "flexDirection": "col"
+                                    }
+                                }
+                            },
+                            {
+                                "$$type": "FeaturedItem",
+                                "title": "",
+                                "tagline": null,
+                                "subtitle": "",
+                                "text": null,
+                                "image": {
+                                    "$$type": "ImageBlock",
+                                    "url": {
+                                        "$$ref": "stackbit_asset_id:static:public/images/WhatsApp Image 2024-08-14 at 01.00.37 (1).jpeg",
+                                        "$$type": "__asset_model"
+                                    },
+                                    "altText": "Image alt text placeholder",
+                                    "elementId": "",
+                                    "styles": {
+                                        "self": {
+                                            "borderRadius": "medium"
+                                        }
+                                    }
+                                },
+                                "actions": [],
+                                "elementId": null,
+                                "colors": "bg-neutral-fg-dark",
+                                "styles": {
+                                    "self": {
+                                        "padding": [
+                                            "pt-0",
+                                            "pl-0",
+                                            "pb-0",
+                                            "pr-0"
+                                        ],
+                                        "textAlign": "left",
+                                        "borderRadius": "none",
+                                        "flexDirection": "col",
+                                        "justifyContent": "center"
+                                    }
+                                }
+                            }
+                        ],
+                        "actions": [],
+                        "badge": {
+                            "$$type": "Badge",
+                            "label": "",
+                            "color": "text-primary",
+                            "styles": null
+                        },
+                        "elementId": "",
+                        "variant": "three-col-grid",
+                        "colors": "bg-neutral-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-16",
+                                    "pl-8",
+                                    "pb-8",
+                                    "pr-8"
+                                ],
+                                "justifyContent": "flex-start"
+                            },
+                            "subtitle": {
+                                "textAlign": "center"
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "DividerSection",
+                        "title": "Divider",
+                        "elementId": "",
+                        "colors": "bg-light-fg-dark",
+                        "styles": {
+                            "self": {
+                                "padding": [
+                                    "pt-3",
+                                    "pl-3",
+                                    "pb-3",
+                                    "pr-3"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "$$type": "ImageGallerySection",
+                        "title": null,
+                        "subtitle": "Our customers",
+                        "images": [
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/empathy-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Empathy logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/wellster-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Wellster logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/vise-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Vise logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/telus-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Telus logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/contenful-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Contentful logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/sanity-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Sanity logo",
+                                "elementId": "",
+                                "styles": null
+                            },
+                            {
+                                "$$type": "ImageBlock",
+                                "url": {
+                                    "$$ref": "stackbit_asset_id:static:public/images/rangle-logo.svg",
+                                    "$$type": "__asset_model"
+                                },
+                                "altText": "Rangle logo",
+                                "elementId": "",
+                                "styles": null
+                            }
+                        ],
+                        "badge": null,
+                        "elementId": "",
+                        "motion": "move-to-left",
+                        "colors": "bg-light-fg-dark",
+                        "backgroundImage": null,
+                        "styles": {
+                            "self": {
+                                "margin": [
+                                    "mt-0",
+                                    "ml-0",
+                                    "mb-0",
+                                    "mr-0"
+                                ],
+                                "padding": [
+                                    "pt-16",
+                                    "pl-16",
+                                    "pb-16",
+                                    "pr-16"
+                                ],
+                                "justifyContent": "center"
+                            },
+                            "subtitle": {
+                                "textAlign": "center"
+                            }
+                        }
+                    }
+                ],
+                "slug": "/",
+                "isDraft": true,
+                "seo": {
+                    "$$type": "Seo",
+                    "metaTitle": null,
+                    "metaDescription": null,
+                    "addTitleSuffix": false,
+                    "socialImage": {
+                        "$$ref": "stackbit_asset_id:static:public/images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "metaTags": []
+                }
+            },
+            "thumbnail": "images/page-layout-xxcxc-2e86.png"
+        }
+    ]
+}
