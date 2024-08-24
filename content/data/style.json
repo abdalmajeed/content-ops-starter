@@ -7,7 +7,7 @@
     "fontBody": "sans",
     "fontHeadlines": "sans",
     "h1": {
-        "size": "6xl",
+        "size": "8xl",
         "weight": "medium",
         "decoration": "line-through",
         "case": "capitalize",
