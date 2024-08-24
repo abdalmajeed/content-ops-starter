@@ -14,11 +14,14 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
-        url: /
+        label: Adres
+        url: >-
+          https://maps.app.goo.gl/R5BiSN9kVQuP7XPD6?g_st=com.google.maps.preview.copy
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
+        altText: Adres
+        showIcon: true
       - type: Link
         label: See Tutorials
         url: /

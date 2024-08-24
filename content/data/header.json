@@ -1,5 +1,36 @@
 {
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "SubNav",
+            "label": "tr",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "EN",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "AR",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        }
+    ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-right",
     "colors": "bg-dark-fg-light",
