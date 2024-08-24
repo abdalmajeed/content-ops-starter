@@ -22,8 +22,7 @@ sections:
         style: primary
         altText: Adres
         showIcon: false
-        elementId: >-
-          https://maps.app.goo.gl/R5BiSN9kVQuP7XPD6?g_st=com.google.maps.preview.copy
+        elementId: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
     colors: bg-light-fg-dark
     styles:
       self:
