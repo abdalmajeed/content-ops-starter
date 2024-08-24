@@ -5,33 +5,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
-      color: text-dark
-    subtitle: ''
-    text: ''
-    actions: []
-    media:
-      type: ImageBlock
-      altText: Dope design preview
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-      subtitle:
-        textAlign: left
-        fontWeight: 700
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: CARPET HOME
       color: text-dark
     subtitle: CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ
