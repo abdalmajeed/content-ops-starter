@@ -8,7 +8,7 @@
     "fontHeadlines": "sans",
     "h1": {
         "size": "8xl",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "line-through",
         "case": "capitalize",
         "letterSpacing": "normal",
