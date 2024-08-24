@@ -3,7 +3,7 @@
         {
             "type": "SubNav",
             "label": "tr",
-            "altText": "Dropdown",
+            "altText": "Dil",
             "links": [
                 {
                     "type": "Link",
