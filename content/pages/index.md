@@ -469,7 +469,7 @@ sections:
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
-    hoverEffect: shadow
+    hoverEffect: thin-underline
     styles:
       self:
         justifyContent: center
