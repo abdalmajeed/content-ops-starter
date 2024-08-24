@@ -26,18 +26,27 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    media:
-      type: ImageBlock
-      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
-      altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-1
+          - pl-1
+          - pb-1
+          - pr-1
       subtitle:
         textAlign: left
         fontWeight: 700
+    media:
+      type: ImageBlock
+      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -306,8 +315,9 @@ sections:
       subtitle:
         textAlign: center
 type: PageLayout
+isDraft: true
 seo:
   type: Seo
-  socialImage: /images/WhatsApp Image 2024-08-14 at 01.26.39.jpeg
-isDraft: true
+  socialImage: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
+  addTitleSuffix: false
 ---
