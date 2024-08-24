@@ -17,7 +17,7 @@
         "type": "ImageBlock",
         "url": "/images/image (4).png",
         "altText": "Carpet Home",
-        "elementId": "",
+        "elementId": "Carpet Home",
         "styles": {
             "self": {
                 "borderRadius": "medium",
