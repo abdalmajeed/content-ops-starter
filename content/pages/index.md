@@ -14,7 +14,7 @@ sections:
 
     actions:
       - type: Button
-        label: Get started
+        label: Konum
         url: /
         icon: arrowRight
         iconPosition: right
