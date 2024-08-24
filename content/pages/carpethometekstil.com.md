@@ -18,7 +18,7 @@ sections:
         url: >-
           https://maps.app.goo.gl/R5BiSN9kVQuP7XPD6?g_st=com.google.maps.preview.copy
         icon: chevronDown
-        iconPosition: right
+        iconPosition: left
         style: primary
         altText: Adres
         showIcon: true
