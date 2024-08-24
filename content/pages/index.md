@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: CARPET HOME
+      text: ''
       color: text-dark
     subtitle: CARPET HOME TEKSTİL SANAYİ VE TİCARET LİMİTED ŞİRKETİ
     text: >+
