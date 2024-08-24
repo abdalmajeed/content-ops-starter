@@ -435,7 +435,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Adres:'
+      text: ''
       color: text-dark
       styles:
         self:
