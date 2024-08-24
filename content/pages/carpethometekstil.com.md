@@ -1,6 +1,6 @@
 ---
+type: PageLayout
 title: Carpet Home
-slug: carpethometekstil.com
 sections:
   - type: GenericSection
     title:
@@ -15,20 +15,21 @@ sections:
     actions:
       - type: Button
         label: Adres
-        url: >-
-          https://maps.app.goo.gl/R5BiSN9kVQuP7XPD6?g_st=com.google.maps.preview.copy
-        icon: arrowRight
-        iconPosition: right
-        style: primary
         altText: Adres
-        showIcon: true
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
+        url: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
+        showIcon: false
+        icon: arrowDown
         iconPosition: right
         style: primary
+        elementId: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
+    media:
+      type: ImageBlock
+      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
     colors: bg-light-fg-dark
     styles:
       self:
@@ -42,14 +43,6 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
-    media:
-      type: ImageBlock
-      url: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -64,17 +57,25 @@ sections:
         subtitle: ''
         image:
           type: ImageBlock
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
             self:
               borderRadius: medium
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.36.jpeg
         actions: []
         colors: bg-neutral-fg-dark
       - type: FeaturedItem
         title: ''
         subtitle: ''
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.37 (2).jpeg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -88,14 +89,6 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.37 (2).jpeg
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
       - type: FeaturedItem
         title: ''
         tagline: ''
@@ -196,6 +189,14 @@ sections:
         tagline: ''
         subtitle: ''
         text: ''
+        image:
+          type: ImageBlock
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg
+          altText: Image alt text placeholder
+          elementId: ''
+          styles:
+            self:
+              borderRadius: medium
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -207,17 +208,17 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
         image:
           type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.37.jpeg
+          url: /images/WhatsApp Image 2024-08-14 at 01.00.37 (1).jpeg
           altText: Image alt text placeholder
           elementId: ''
           styles:
             self:
               borderRadius: medium
-      - type: FeaturedItem
-        title: ''
-        subtitle: ''
         actions: []
         colors: bg-neutral-fg-dark
         styles:
@@ -231,15 +232,11 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
-        image:
-          type: ImageBlock
-          url: /images/WhatsApp Image 2024-08-14 at 01.00.37 (1).jpeg
-          altText: Image alt text placeholder
-          elementId: ''
-          styles:
-            self:
-              borderRadius: medium
     actions: []
+    badge:
+      type: Badge
+      label: ''
+      color: text-primary
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
@@ -253,10 +250,6 @@ sections:
         justifyContent: flex-start
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: ''
-      color: text-primary
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -300,7 +293,7 @@ sections:
         altText: Rangle logo
         elementId: ''
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
@@ -317,10 +310,11 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-type: PageLayout
-isDraft: false
+slug: carpethometekstil.com
+isDraft: true
 seo:
   type: Seo
-  socialImage: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
   addTitleSuffix: false
+  socialImage: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
+  metaTags: []
 ---
