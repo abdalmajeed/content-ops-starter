@@ -247,6 +247,7 @@ sections:
         flexDirection: row-reverse
       subtitle:
         textAlign: center
+        fontWeight: 700
 type: PageLayout
 seo:
   type: Seo
