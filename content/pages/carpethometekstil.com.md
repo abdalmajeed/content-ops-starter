@@ -21,6 +21,7 @@ sections:
         iconPosition: right
         style: secondary
         altText: Adres
+        showIcon: true
       - type: Link
         label: See Tutorials
         url: /
