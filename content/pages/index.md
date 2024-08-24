@@ -116,10 +116,7 @@ sections:
         title: Business Consulting
         tagline: Feature 2
         subtitle: Be in good company
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           type: ImageBlock
           url: /images/3d477057-1585-460e-a50b-c32255d2355c.jpg
