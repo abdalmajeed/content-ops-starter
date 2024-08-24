@@ -22,7 +22,10 @@
             "self": {
                 "borderRadius": "medium",
                 "padding": [
-                    "pl-1"
+                    "pl-8",
+                    "pt-8",
+                    "pb-8",
+                    "pr-8"
                 ]
             }
         }
