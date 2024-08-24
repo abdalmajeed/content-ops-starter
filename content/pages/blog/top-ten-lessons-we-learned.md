@@ -17,7 +17,7 @@ isFeatured: true
 seo:
   metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
   metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
+  socialImage: /images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg
   type: Seo
 colors: bg-light-fg-dark
 styles:
