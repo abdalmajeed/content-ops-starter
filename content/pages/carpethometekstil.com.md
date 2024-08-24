@@ -18,7 +18,7 @@ sections:
         url: >-
           https://maps.app.goo.gl/R5BiSN9kVQuP7XPD6?g_st=com.google.maps.preview.copy
         icon: arrowRight
-        iconPosition: left
+        iconPosition: right
         style: secondary
         altText: Adres
         showIcon: true
