@@ -445,7 +445,7 @@ sections:
           eskimeyen zemin kaplama çözümlerine olan bağlılığımızın bir
           kanıtıdır.Adres:ORGANIZE SANAYI BÖLGESİ 83326 NOLU CAD. NO 12 BAŞPINAR
           – GAZIANTEP / TÜRKIYEİletişim:+90 555 020 09 11+90 534 821 88
-          56carpethome10@gmail.commailto:carpethome10@gmail.com>carpethometextil@gmail.com
+          56carpethome10@gmail.commailto:carpethome10@gmail.com>ca
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
