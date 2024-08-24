@@ -438,7 +438,7 @@ sections:
       text: >-
         İletişim:+90 555 020 09 11+90 534 821 88
         56carpethome10@gmail.commailto:carpethome10@gmail.com>carpethometextil@gmail.com
-      color: text-primary
+      color: text-dark
     subtitle: Section with a form subtitle
     text: >+
       2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
