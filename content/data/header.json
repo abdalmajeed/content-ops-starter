@@ -2,8 +2,8 @@
     "primaryLinks": [
         {
             "type": "SubNav",
-            "label": "tr",
-            "altText": "Dropdown",
+            "label": "Tr",
+            "altText": "Dil",
             "links": [
                 {
                     "type": "Link",
