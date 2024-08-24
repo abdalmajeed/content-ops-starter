@@ -441,11 +441,13 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
+      yenilikçilik mirasını bünyesinde barındırmaktadır. Kaliteye olan sarsılmaz
+      bağlılığımız ve halı yapım sanatına olan köklü takdirimizle, neredeyse
+      yirmi yıldır konfor ve zarafet hikayeleri dokuyoruz. Geleneğin modernlikle
+      buluştuğu bir dünyaya hoş geldiniz ve her adım, eskimeyen zemin kaplama
+      çözümlerine olan bağlılığımızın bir kanıtıdır
     actions: []
     media:
       type: VideoBlock
