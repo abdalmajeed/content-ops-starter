@@ -405,7 +405,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Ata For Carpet Home
       color: text-dark
       styles:
         self:
