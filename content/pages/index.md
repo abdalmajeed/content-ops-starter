@@ -440,7 +440,7 @@ sections:
       styles:
         self:
           textAlign: left
-          fontWeight: 700
+          fontWeight: 400
     subtitle: ''
     text: >
       2006 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
