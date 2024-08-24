@@ -12,16 +12,5 @@
                 "pt-7"
             ]
         }
-    },
-    "logo": {
-        "type": "ImageBlock",
-        "altText": "Image alt text placeholder",
-        "elementId": "",
-        "styles": {
-            "self": {
-                "borderRadius": "medium"
-            }
-        },
-        "url": "/images/79173b9b-9a35-4edf-8977-ec83f8d2e095.jpg"
     }
 }
