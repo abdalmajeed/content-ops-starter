@@ -22,7 +22,19 @@
     },
     "text": "",
     "socialLinks": [],
-    "legalLinks": [],
+    "legalLinks": [
+        {
+            "type": "Link",
+            "label": "Send",
+            "altText": "Send",
+            "url": "/",
+            "showIcon": true,
+            "icon": "send",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        }
+    ],
     "copyrightText": "Copyright 2024 ©  Carpet Home | Tüm Hakları Saklıdır\n",
     "colors": "bg-neutral-fg-dark",
     "type": "Footer",
