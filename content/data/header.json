@@ -22,10 +22,10 @@
             "self": {
                 "borderRadius": "medium",
                 "padding": [
-                    "pl-1",
+                    "pl-0",
                     "pt-0",
-                    "pb-1",
-                    "pr-1"
+                    "pb-0",
+                    "pr-0"
                 ],
                 "margin": [
                     "mt-1",
