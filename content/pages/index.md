@@ -32,7 +32,6 @@ sections:
       subtitle:
         textAlign: left
         fontWeight: 700
-        textDecoration: underline
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
