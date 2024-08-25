@@ -20,7 +20,7 @@ sections:
         iconPosition: right
         style: primary
         altText: Adres
-        showIcon: false
+        showIcon: true
         elementId: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
     colors: bg-light-fg-dark
     styles:
