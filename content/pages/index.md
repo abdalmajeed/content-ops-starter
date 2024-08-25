@@ -394,6 +394,30 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: HAKKIMIZDA
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >
+      2016 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
+      yenilikçilik mirasını bünyesinde barındırmaktadır. Kaliteye olan sarsılmaz
+      bağlılığımız ve halı yapım sanatına olan köklü takdirimizle, neredeyse
+      yirmi yıldır konfor ve zarafet hikayeleri dokuyoruz. Geleneğin modernlikle
+      buluştuğu bir dünyaya hoş geldiniz ve her adım, eskimeyen zemin kaplama
+      çözümlerine olan bağlılığımızın bir kanıtıdır.
+    actions: []
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: ''
       color: text-dark
       styles:
@@ -417,7 +441,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: 'https://youtube.com/shorts/3M7dasyfl1o'
+      url: ''
       autoplay: true
       loop: true
       muted: true
