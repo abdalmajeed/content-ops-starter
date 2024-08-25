@@ -18,7 +18,7 @@ sections:
         url: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
         icon: arrowDown
         iconPosition: left
-        style: primary
+        style: secondary
         altText: Adres
         showIcon: true
         elementId: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
