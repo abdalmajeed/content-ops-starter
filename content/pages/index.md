@@ -399,7 +399,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >
       2016 yılında Gaziantep'te kurulan halı firmamız, zengin bir işçilik ve
       yenilikçilik mirasını bünyesinde barındırmaktadır. Kaliteye olan sarsılmaz
