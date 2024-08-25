@@ -16,7 +16,7 @@ sections:
       - type: Button
         label: Adres
         url: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
-        icon: chevronDown
+        icon: chevronBigLeft
         iconPosition: right
         style: secondary
         altText: Adres
