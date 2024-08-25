@@ -16,11 +16,11 @@ sections:
       - type: Button
         label: Adres
         url: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
-        icon: arrowDown
+        icon: chevronRight
         iconPosition: right
-        style: primary
+        style: secondary
         altText: Adres
-        showIcon: false
+        showIcon: true
         elementId: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
     colors: bg-light-fg-dark
     styles:
