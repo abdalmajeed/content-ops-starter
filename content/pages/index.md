@@ -452,27 +452,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: RecentPostsSection
-    title:
-      type: TitleBlock
-      text: ''
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    recentCount: 0
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        justifyContent: center
 type: PageLayout
 isDraft: false
 seo:
