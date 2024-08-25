@@ -17,7 +17,7 @@ sections:
         label: Adres
         url: 'https://maps.app.goo.gl/aRZrvvKj3HmrUMg97'
         icon: arrowDown
-        iconPosition: right
+        iconPosition: left
         style: primary
         altText: Adres
         showIcon: true
